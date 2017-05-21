@@ -16,4 +16,4 @@ Created for an Accelerated Intro to programming course.
 *	Auto URL completion
 *	URL box google searches
 * Displays url/text when you hover over a link
-*	A home button incase you get lost in the web
+*	A home button in case you get lost in the web
